@@ -9,8 +9,8 @@ As this was a learning exercise the code in here is not of a commercial standard
 Likewise very little in the way of Aesthetic optimisation has been done, as the function was to learn the framework, over producing a polished product.
 
 The main goals of this project were to learn:
--the file structure of MVC style apps.
--the code-first method of using Entity framework.
--the various helper methods of the Razor view engine.
--how to make views that interact with the server or API's
--how to make API's that can be accessed via a different front-end.
+1.the file structure of MVC style apps.
+2.the code-first method of using Entity framework.
+3.the various helper methods of the Razor view engine.
+4.how to make views that interact with the server or API's
+5.how to make API's that can be accessed via a different front-end.
